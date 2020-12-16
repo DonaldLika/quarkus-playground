@@ -1,6 +1,7 @@
 # Quarkus playground
 
 [![CircleCI](https://circleci.com/gh/DonaldLika/quarkus-playground.svg?style=shield&circle-token=e8f15aad92244e14d81e773e17af4dfcd4d587f)](https://github.com/DonaldLika/quarkus-playground)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 This codebase was created to demonstrate a fully fledged fullstack application built with [Quarkus](https://quarkus.io/) including CRUD operations, authentication, routing, pagination, and more.
 
